@@ -1,6 +1,8 @@
 # Build target and execute test cases
 script:
  - mc _ cmake .
+ - mc _ make
+ - mc _ make test
 
 # Install all required dependencies
 install:
