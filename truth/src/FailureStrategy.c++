@@ -1,0 +1,2 @@
+#include <truth/FailureStrategy.h++>
+

@@ -1,0 +1,8 @@
+---
+base: fedora:30
+install:
+ - clang
+ - cmake
+ - make
+---
+
