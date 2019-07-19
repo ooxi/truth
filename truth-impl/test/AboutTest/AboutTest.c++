@@ -1,8 +1,4 @@
 #include <cstdlib>
-#include <truth/Fact.h++>
-#include <truth/FailureMetadata.h++>
-#include <truth/Subject.h++>
-#include <truth/SubjectFactory.h++>
 #include <truth/Truth.h++>
 
 
