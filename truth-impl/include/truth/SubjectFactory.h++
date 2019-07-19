@@ -21,7 +21,7 @@ namespace truth {
 		[[nodiscard]] virtual Subject createSubject(
 				FailureMetadata failureMetadata,
 				Actual actual
-			);
+			) = 0;
 	};
 }
 
