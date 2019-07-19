@@ -7,7 +7,7 @@ script:
 # Install all required dependencies
 install:
  - npm install -g mini-cross
- - mc _ make clean
+ - mc _ echo 'Initialized container'
 
 language: node_js
 
