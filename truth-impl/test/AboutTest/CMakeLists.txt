@@ -16,7 +16,7 @@ target_sources(
 target_link_libraries(
 	"${PROJECT_NAME}"
 	PUBLIC
-		truth::truth
+		truth::truth-impl
 	PRIVATE
 		truth::defaults
 )
